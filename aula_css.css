@@ -1,0 +1,30 @@
+/* Css => Cascading StyleSHEET(folha de estilo em cascatas) */
+
+/* Anatomia de uma regra Css
+seletor = seleciona o elemento que voce vai estilizar
+
+seletor{
+    propriedade : valor da propriedade; => declaração CSS
+    cor de fundo: vermelho; => declaração CSS
+} => regra css
+*/
+
+/*
+tipos de seletores
+
+1.seletor por tag/nome de elemento
+2. seletor por classe
+*/
+
+
+body {
+    background-color: blueviolet;
+}
+
+.secaoSobreMim{
+    color:red
+}
+/* seletor por ID
+
+
+*/
